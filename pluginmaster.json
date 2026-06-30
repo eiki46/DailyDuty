@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "eiki_46",
+    "Name": "DailyDuty",
+    "InternalName": "DailyDuty",
+    "AssemblyVersion": "6.0.0.4",
+    "TestingAssemblyVersion": "6.0.0.4",
+    "RepoUrl": "https://github.com/eiki46/DailyDuty",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Utility"
+    ],
+    "DalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/eiki46/DailyDuty/releases/download/download/Release.zip",
+    "DownloadLinkUpdate": "https://github.com/eiki46/DailyDuty/releases/download/download/Release.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "2026-06-30T00:00:00Z",
+    "IconUrl": "",
+    "Punchline": "DailyDuty",
+    "Description": "fork"
+  }
+]
